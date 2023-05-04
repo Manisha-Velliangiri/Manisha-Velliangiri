@@ -2,8 +2,7 @@
 - 🔭 I’m currently working on -- Projects -- 1-Laika , 2-Portfolio website.
 - 🌱 I’m learning -- C++ and Web dev
 
-
-<img scr="C:\Users\Manisha.V\Downloads\I am Manisha.V.png">
+<img src="I am Manisha.v">
 
 <h1 align="center">Hi 👋, I'm Manisha.V</h1>
 <h3 align="center">B.Tech CSE student who is constantly learning and applying new skills everyday!</h3>
