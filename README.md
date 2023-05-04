@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on -- Projects -- 1-Laika , 2-Portfolio website.
 - 🌱 I’m learning -- C++ and Web dev
 
-<h1 align="center">Hi 👋, I'm Manisha.V</h1>
+<h1 align="center">Hi, I'm Manisha.V</h1>
 <h3 align="center">B.Tech CSE student who is constantly learning and applying new skills everyday!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manisha-velliangiri&label=Profile%20views&color=0e75b6&style=flat" alt="manisha-velliangiri" /> </p>
