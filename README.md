@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on -- Projects -- 1-Petsy , 2-Portfolio website.
 - 🌱 I’m learning -- C++ and Web dev
 
+view my mini-web projects in WEB-PROJECTS repo***********
+
 <h1 align="center">Hi, I'm Manisha.V</h1>
 <h3 align="center">B.Tech CSE student who is constantly learning and applying new skills everyday!</h3>
 
