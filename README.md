@@ -1,5 +1,4 @@
 
-- 🔭 I’m currently working on -- Projects -- 1-Petsy , 2-Portfolio website.
 - 🌱 I’m learning -- C++ and Web dev
 - view my web projects below
 
