@@ -1,5 +1,6 @@
 
 Hey ! welcome to my github.
+I have a passion for tech and especially cloud deployments(AWS)
 I am a tech enthusiast , avid learner .
 My current projects include : Web-development , AWS(Amazon Web Services) , Software development.
 My Interests :Cloud computing, Artificial Intelligence.
