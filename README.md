@@ -3,7 +3,7 @@ Hey ! welcome to my github.
 I have a passion for tech and especially cloud deployments(AWS)
 I am a tech enthusiast , avid learner .
 My current projects include : Web-development , AWS(Amazon Web Services) , Software development.
-My Interests :Cloud computing, Artificial Intelligence.
+My Interests :Full-stack web dev,Cloud computing
 
 <h1 align="center">Hi, I'm Manisha.V</h1>
 <h3 align="center">B.Tech CSE student who is constantly learning and applying new skills everyday!</h3>
