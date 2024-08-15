@@ -1,7 +1,7 @@
 
 Hey ! welcome to my github. I am a certified AWS Cloud Practitioner.
 I am currently working on my full-stack projects and hoping to get a job on the same.
-My tech stack include: HTML,CSS,JavaScript, React JS, Node JS, Express JS, MongoDB ,OS,OOPS,DBMS,SQL,Software development, Data structures & Algorithms.
+My tech stack include:   [  HTML,CSS,JavaScript, React JS, Node JS, Express JS, MongoDB ,OS,OOPS,DBMS,SQL,Software development, Data structures & Algorithms. ]  
 I am a tech enthusiast , avid learner .
 My current projects include : Web-development , Software development.
 
