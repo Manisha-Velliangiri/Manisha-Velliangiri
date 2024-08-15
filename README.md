@@ -1,9 +1,9 @@
 
-Hey ! welcome to my github.
-I have a passion for tech and especially cloud deployments(AWS)
+Hey ! welcome to my github. I am a certified AWS Cloud Practitioner.
+I am currently working on my full-stack projects and hoping to get a job on the same.
+My tech stack include: HTML,CSS,JavaScript, React JS, Node JS, Express JS, MongoDB ,OS,OOPS,DBMS,SQL,Software development, Data structures & Algorithms.
 I am a tech enthusiast , avid learner .
-My current projects include : Web-development , AWS(Amazon Web Services) , Software development.
-My Interests :Full-stack web dev,Cloud computing
+My current projects include : Web-development , Software development.
 
 <h1 align="center">Hi, I'm Manisha.V</h1>
 <h3 align="center">B.Tech CSE student who is constantly learning and applying new skills everyday!</h3>
